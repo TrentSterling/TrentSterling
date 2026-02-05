@@ -16,7 +16,7 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 **[FishNet-EOS-Native](https://github.com/TrentSterling/FishNet-EOS-Native)** - EOS transport for FishNet that bypasses PlayEveryWare entirely. Direct C# SDK. P2P with packet fragmentation, host migration, 3D spatial voice, ranked matchmaking, replay system, anti-cheat. Zero-config setup.
 
-**[csharp-gentle-formatter](https://github.com/TrentSterling/csharp-gentle-formatter)** - VS Code C# formatter that preserves blank line indentation. Exists because OmniSharp/CSharpier strip whitespace and cause noisy git diffs when collaborating.
+**[csharp-gentle-formatter](https://github.com/TrentSterling/csharp-gentle-formatter)** - VS Code C# formatter that preserves blank line indentation. Exists because OmniSharp/CSharpier strip whitespace and cause noisy git diffs when collaborating. [See it in action](https://tront.xyz/csharp-gentle-formatter/)
 
 **[SpeedSlap](https://github.com/TrentSterling/speedslap)** - Chrome extension for YouTube playback speed control. Configurable shortcuts, scroll wheel control, draggable overlay. Because I watch everything at 3x.
 
