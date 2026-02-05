@@ -1,49 +1,45 @@
-# Hey, I'm Trent 👋
+# Hey, I'm Trent (Tront)
 
-Game developer shipping since 2009. **76 projects** and counting.
+I make multiplayer games, VR stuff, and tools that solve problems I actually have. Been doing this since 2009 — started modding Halo CE, Minecraft, and Garry's Mod, never really stopped.
 
-## What I Do
+## What I'm Good At
 
-- 🥽 **VR Development** - Quest native, XR Interaction Toolkit
-- 🌐 **Multiplayer Networking** - FishNet, Mirror, Epic Online Services
-- ⚡ **Rapid Prototyping** - AI-assisted "vibe coding" with Gemini & Claude
-- 🛠️ **Tools** - VS Code extensions, Chrome extensions, browser utilities
+**Multiplayer Networking** — Transport layers, packet fragmentation, host migration, state sync. I've shipped production netcode with FishNet, Mirror, and raw EOS SDK. I hate multiplayer, but I'm good at it.
 
-## Current Focus
+**VR Development** — Quest-native, not just PCVR. If it doesn't run on Quest I don't touch it. Voxel engines, compute shaders, 120Hz optimization, spatial voice, physics interactions.
 
-- **Project Demigod** - VR superhero sandbox (full-time)
-- **FishNet-EOS-Native** - Open source EOS transport for FishNet
-- **WebGPU Experiments** - vibesand (2M voxels), vibewater, vibeduders (100k agents)
+**Tools That Exist Because I Needed Them** — VS Code extensions, Chrome extensions, Discord bots, hardware projects. If something annoyed me enough, I built a fix.
 
-## Featured Repos
+**AI-Assisted Prototyping** — I use Gemini, Claude, and local Ollama models daily. Not for replacing real engine work — for killing boilerplate and getting to the interesting part faster.
 
-| Repo | Description |
-|------|-------------|
-| [FishNet-EOS-Native](https://github.com/TrentSterling/FishNet-EOS-Native) | EOS transport with host migration, voice chat, matchmaking |
-| [csharp-gentle-formatter](https://github.com/TrentSterling/csharp-gentle-formatter) | VS Code C# formatter that preserves blank line whitespace |
-| [speedslap](https://github.com/TrentSterling/speedslap) | YouTube playback speed control Chrome extension |
-| [vibesand](https://github.com/TrentSterling/vibesand) | WebGPU voxel sandbox - 2M particles at 60fps |
-| [vibespace](https://github.com/TrentSterling/vibespace) | Infinite procedural space simulator |
-| [shortpath](https://github.com/TrentSterling/shortpath) | Dijkstra vs Duan-Mao 2025 pathfinding visualizer |
+## Recent Work (2026)
 
-## Stats
+**[FishNet-EOS-Native](https://github.com/TrentSterling/FishNet-EOS-Native)** — EOS transport for FishNet that bypasses PlayEveryWare entirely. Direct C# SDK. P2P with packet fragmentation, host migration, 3D spatial voice, ranked matchmaking, replay system, anti-cheat. Zero-config setup.
 
-```
-🎮 76 projects shipped (2009-2025)
-🥽 6+ VR titles
-🏆 13 game jam entries
-🛠️ 12 open source tools
-📅 16 years of game dev
-```
+**[csharp-gentle-formatter](https://github.com/TrentSterling/csharp-gentle-formatter)** — VS Code C# formatter that preserves blank line indentation. Exists because OmniSharp/CSharpier strip whitespace and cause noisy git diffs when collaborating.
+
+**[SpeedSlap](https://github.com/TrentSterling/speedslap)** — Chrome extension for YouTube playback speed control. Configurable shortcuts, scroll wheel control, draggable overlay. Because I watch everything at 3x.
+
+## Other Repos
+
+| Repo | What |
+|------|------|
+| [vibesand](https://github.com/TrentSterling/vibesand) | WebGPU voxel sandbox — 2M particles at 60fps |
+| [vibespace](https://github.com/TrentSterling/vibespace) | Infinite procedural space sim |
+| [shortpath](https://github.com/TrentSterling/shortpath) | Dijkstra vs Duan-Mao pathfinding visualizer |
+
+## Stack
+
+`C#` `Unity` `HLSL/Compute Shaders` `Python` `TypeScript` `JavaScript` `WebGPU` `Arduino/ESP8266` `FishNet` `EOS SDK`
 
 ## Links
 
-- 🎮 **Portfolio:** [tront.xyz](https://tront.xyz)
-- 💬 **Discord:** [TrontDev](https://discord.gg/0hyoWZyM6y7kkFCN)
-- 📝 **Blog:** [blog.tront.xyz](https://blog.tront.xyz)
-- 🐦 **Twitter:** [@Trent_Sterling](https://twitter.com/Trent_Sterling)
-- 🦋 **Bluesky:** [@tront.xyz](https://bsky.app/profile/tront.xyz)
+[tront.xyz](https://tront.xyz) — [Blog](https://blog.tront.xyz) — [Discord](https://discord.gg/0hyoWZyM6y7kkFCN) — [Twitter](https://twitter.com/Trent_Sterling) — [Bluesky](https://bsky.app/profile/tront.xyz) — [itch.io](https://trent.itch.io)
 
 ---
 
-*"I believe in shipping over perfecting. Most of my projects are playable, documented, and open source."*
+> *"finishing the game is actually its own skill"*
+
+> *"I hate multiplayer lmao" — "aren't you getting paid to hate multiplayer?" — "yes. and that makes me hate it more"*
+
+> *"if you cant physics a door why even door"*
