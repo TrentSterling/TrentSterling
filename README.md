@@ -20,6 +20,10 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 **[SpeedSlap](https://github.com/TrentSterling/speedslap)** - Chrome extension for YouTube playback speed control. Configurable shortcuts, scroll wheel control, draggable overlay. Because I watch everything at 3x.
 
+**[Volumetric Light Beam](https://github.com/TrentSterling/threejs-volumetric-beam)** - Three.js port of HL2's fake volumetric lighting trick. Cylindrical billboarding on a flat quad, procedural noise, zero raymarching. The same cheat Valve shipped in 2004 still looks great. [Live demo](https://tront.xyz/threejs-volumetric-beam/) · [Blog post](https://blog.tront.xyz/posts/volumetric-light-beam/)
+
+[![Volumetric Light Beams](https://blog.tront.xyz/assets/img/blog/volumetric_beam.png)](https://tront.xyz/threejs-volumetric-beam/)
+
 ## Other Repos
 
 | Repo | What |
