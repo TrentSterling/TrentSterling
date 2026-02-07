@@ -4,7 +4,7 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 ## What I'm Good At
 
-**Multiplayer Networking** - Transport layers, packet fragmentation, host migration, state sync. I've shipped production netcode with FishNet, Mirror, and raw EOS SDK. I hate multiplayer, but I'm good at it.
+**Multiplayer Networking** - Built EOS-Native from scratch; a standalone multiplayer framework for Unity with 80 managers and 46K lines. P2P mesh, zero-hitch host migration, SyncVars, the whole stack. I hate multiplayer, but I'm good at it.
 
 **VR Development** - Quest-native, not just PCVR. If it doesn't run on Quest I don't touch it. Voxel engines, compute shaders, 120Hz optimization, spatial voice, physics interactions.
 
@@ -14,9 +14,9 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 ## Recent Work (2026)
 
-<a href="https://github.com/TrentSterling/FishNet-EOS-Native"><img src="https://tront.xyz/img/fishnet_eos_native.png" width="200" align="right"></a>
+<a href="https://github.com/TrentSterling/EOS-Native"><img src="https://blog.tront.xyz/assets/img/blog/eos-native.png" width="200" align="right"></a>
 
-**[FishNet-EOS-Native](https://github.com/TrentSterling/FishNet-EOS-Native)** - EOS transport for FishNet that bypasses PlayEveryWare entirely. Direct C# SDK. P2P with packet fragmentation, host migration, 3D spatial voice, ranked matchmaking, replay system, anti-cheat. Zero-config setup.
+**[EOS-Native](https://github.com/TrentSterling/EOS-Native)** - Standalone multiplayer framework for Unity built on EOS P2P. No FishNet, no Mirror, no middleware. 80 C# managers, P2P mesh networking, zero-hitch host migration, voice chat, ranked matchmaking, replays, anti-cheat. 7 platforms, 100% free. [Docs](https://tront.xyz/EOS-Native/) · [Blog post](https://blog.tront.xyz/posts/eos-native-i-built-a-standalone-multiplayer-framework-for-unity/)
 
 <br clear="both">
 
@@ -50,11 +50,11 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 ## Stack
 
-`C#` `Unity` `HLSL/Compute Shaders` `Python` `TypeScript` `JavaScript` `WebGPU` `Arduino/ESP8266` `FishNet` `EOS SDK`
+`C#` `Unity` `HLSL/Compute Shaders` `Python` `TypeScript` `JavaScript` `WebGPU` `Arduino/ESP8266` `EOS SDK` `FishNet`
 
 ## Links
 
-[tront.xyz](https://tront.xyz) - [Blog](https://blog.tront.xyz) - [Discord](https://discord.gg/0hyoWZyM6y7kkFCN) - [Twitter](https://twitter.com/Trent_Sterling) - [Bluesky](https://bsky.app/profile/tront.xyz) - [itch.io](https://trent.itch.io)
+[tront.xyz](https://tront.xyz) - [Blog](https://blog.tront.xyz) - [EOS-Native Docs](https://tront.xyz/EOS-Native/) - [Discord](https://discord.gg/0hyoWZyM6y7kkFCN) - [Twitter](https://twitter.com/Trent_Sterling) - [Bluesky](https://bsky.app/profile/tront.xyz) - [itch.io](https://trent.itch.io)
 
 ---
 
