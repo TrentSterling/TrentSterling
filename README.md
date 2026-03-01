@@ -14,15 +14,15 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 ## Recent Work (2026)
 
-<a href="https://github.com/TrentSterling/EOS-Native"><img src="https://blog.tront.xyz/assets/img/blog/eos-native.png" width="200" align="right"></a>
+<a href="https://github.com/TrentSterling/EOS-Native"><img src="https://tront.xyz/blog/assets/img/blog/eos-native.png" width="200" align="right"></a>
 
-**[EOS-Native](https://github.com/TrentSterling/EOS-Native)** - Standalone multiplayer framework for Unity built on EOS P2P. No FishNet, no Mirror, no middleware. 80 C# managers, P2P mesh networking, zero-hitch host migration, voice chat, ranked matchmaking, replays, anti-cheat. 7 platforms, 100% free. [Docs](https://tront.xyz/EOS-Native/) · [Blog post](https://blog.tront.xyz/posts/eos-native-i-built-a-standalone-multiplayer-framework-for-unity/)
+**[EOS-Native](https://github.com/TrentSterling/EOS-Native)** - Standalone multiplayer framework for Unity built on EOS P2P. No FishNet, no Mirror, no middleware. 80 C# managers, P2P mesh networking, zero-hitch host migration, voice chat, ranked matchmaking, replays, anti-cheat. 7 platforms, 100% free. [Docs](https://tront.xyz/EOS-Native/) · [Blog post](https://tront.xyz/blog/posts/eos-native-i-built-a-standalone-multiplayer-framework-for-unity/)
 
 <br clear="both">
 
-<a href="https://tront.xyz/threejs-volumetric-beam/"><img src="https://blog.tront.xyz/assets/img/blog/volumetric_beam.png" width="200" align="right"></a>
+<a href="https://tront.xyz/threejs-volumetric-beam/"><img src="https://tront.xyz/blog/assets/img/blog/volumetric_beam.png" width="200" align="right"></a>
 
-**[Volumetric Light Beam](https://github.com/TrentSterling/threejs-volumetric-beam)** - Three.js port of HL2's fake volumetric lighting trick. Cylindrical billboarding on a flat quad, procedural noise, zero raymarching. The same cheat Valve shipped in 2004 still looks great. [Live demo](https://tront.xyz/threejs-volumetric-beam/) · [Blog post](https://blog.tront.xyz/posts/volumetric-light-beam/)
+**[Volumetric Light Beam](https://github.com/TrentSterling/threejs-volumetric-beam)** - Three.js port of HL2's fake volumetric lighting trick. Cylindrical billboarding on a flat quad, procedural noise, zero raymarching. The same cheat Valve shipped in 2004 still looks great. [Live demo](https://tront.xyz/threejs-volumetric-beam/) · [Blog post](https://tront.xyz/blog/posts/volumetric-light-beam/)
 
 <br clear="both">
 
@@ -32,7 +32,7 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 <br clear="both">
 
-<a href="https://tront.xyz/csharp-gentle-formatter/"><img src="https://blog.tront.xyz/assets/img/blog/csharp-gentle-formatter.png" width="200" align="right"></a>
+<a href="https://tront.xyz/csharp-gentle-formatter/"><img src="https://tront.xyz/blog/assets/img/blog/csharp-gentle-formatter.png" width="200" align="right"></a>
 
 **[csharp-gentle-formatter](https://github.com/TrentSterling/csharp-gentle-formatter)** - VS Code C# formatter that preserves blank line indentation. Exists because OmniSharp/CSharpier strip whitespace and cause noisy git diffs when collaborating. [See it in action](https://tront.xyz/csharp-gentle-formatter/)
 
@@ -54,7 +54,7 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 ## Links
 
-[tront.xyz](https://tront.xyz) - [Blog](https://blog.tront.xyz) - [EOS-Native Docs](https://tront.xyz/EOS-Native/) - [Discord](https://discord.gg/0hyoWZyM6y7kkFCN) - [Twitter](https://twitter.com/Trent_Sterling) - [Bluesky](https://bsky.app/profile/tront.xyz) - [itch.io](https://trent.itch.io)
+[tront.xyz](https://tront.xyz) - [Blog](https://tront.xyz/blog) - [EOS-Native Docs](https://tront.xyz/EOS-Native/) - [Discord](https://discord.gg/0hyoWZyM6y7kkFCN) - [Twitter](https://twitter.com/Trent_Sterling) - [Bluesky](https://bsky.app/profile/tront.xyz) - [itch.io](https://trent.itch.io)
 
 ---
 
