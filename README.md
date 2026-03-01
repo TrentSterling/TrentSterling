@@ -4,13 +4,13 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 ## What I Do
 
-**Multiplayer Networking** - I built [EOS-Native](https://github.com/TrentSterling/EOS-Native) from scratch — a standalone multiplayer framework for Unity with 80 C# managers and 46K lines of code. P2P mesh, zero-hitch host migration, spatial voice, ranked matchmaking, replay system, anti-cheat. No FishNet, no Mirror, no middleware. Just the SDK. I hate multiplayer, but I'm good at it.
+**Multiplayer Networking** - I built [EOS-Native](https://github.com/TrentSterling/EOS-Native) from scratch - a standalone multiplayer framework for Unity with 80 C# managers and 46K lines of code. P2P mesh, zero-hitch host migration, spatial voice, ranked matchmaking, replay system, anti-cheat. No FishNet, no Mirror, no middleware. Just the SDK. I hate multiplayer, but I'm good at it.
 
 **VR Development** - Quest-native, not just PCVR. If it doesn't run on Quest hardware I'm not interested. Currently building a voxel portal game with compute shader terrain, 120Hz rendering, and physics-based gorilla locomotion.
 
 **Tools & Overlays** - If something annoys me enough, I build a fix. VS Code extensions, Chrome extensions, Discord bots, desktop overlays in Rust, a CLI that replaces Unity Hub. I have a transparent desktop zombie shooter that's entirely unrelated to my actual work.
 
-**AI-Augmented Dev** - Claude, Gemini, and local Ollama models daily. Not for replacing real engine work — for killing boilerplate, generating voice lines, and letting AI agents monitor my builds while I'm in VR.
+**AI-Augmented Dev** - Claude, Gemini, and local Ollama models daily. Not for replacing real engine work - for killing boilerplate, generating voice lines, and letting AI agents monitor my builds while I'm in VR.
 
 ## Recent Work (2026)
 
