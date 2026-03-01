@@ -49,7 +49,7 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 | <a href="https://tront.xyz/shortpath"><img src="https://tront.xyz/img/shortpath.png" width="120"></a> | [shortpath](https://github.com/TrentSterling/shortpath) | Dijkstra vs Duan-Mao pathfinding visualizer |
 | <a href="https://tront.xyz/lofigen"><img src="https://tront.xyz/lofigen/og-image.png" width="120"></a> | [lofigen](https://tront.xyz/lofigen) | Procedural lo-fi hip-hop generator |
 | <a href="https://tront.xyz/device-history"><img src="https://tront.xyz/device-history/screenshot.png" width="120"></a> | [device-history](https://github.com/TrentSterling/device-history) | USB device monitor with system tray + nicknames |
-| <a href="https://github.com/TrentSterling/catswarm"><img src="https://raw.githubusercontent.com/TrentSterling/catswarm/main/docs/og-image.png" width="120"></a> | [catswarm](https://github.com/TrentSterling/catswarm) | 1000 procedural cats swarming your desktop |
+| <a href="https://github.com/TrentSterling/catswarm"><img src="https://raw.githubusercontent.com/TrentSterling/catswarm/master/docs/og-image.png" width="120"></a> | [catswarm](https://github.com/TrentSterling/catswarm) | 1000 procedural cats swarming your desktop |
 | <a href="https://github.com/TrentSterling/craftmine"><img src="https://tront.xyz/img/craftmine.png" width="120"></a> | [craftmine](https://github.com/TrentSterling/craftmine) | Browser Minecraft clone - single HTML file |
 | <a href="https://tront.xyz/lerp"><img src="https://tront.xyz/img/lerp.png" width="120"></a> | [lerp](https://github.com/TrentSterling/lerp) | Framerate-independent lerp visualizer |
 
