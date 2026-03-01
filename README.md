@@ -1,16 +1,16 @@
 # Hey, I'm Trent (Tront)
 
-I make multiplayer games, VR stuff, and tools that solve problems I actually have. Been doing this since 2009 - started modding Halo CE, Minecraft, and Garry's Mod, never really stopped.
+Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never really stopped. Now I build multiplayer frameworks, VR games, desktop tools, and an unreasonable number of side projects. 88 repos and counting.
 
-## What I'm Good At
+## What I Do
 
-**Multiplayer Networking** - Built EOS-Native from scratch; a standalone multiplayer framework for Unity with 80 managers and 46K lines. P2P mesh, zero-hitch host migration, SyncVars, the whole stack. I hate multiplayer, but I'm good at it.
+**Multiplayer Networking** - I built [EOS-Native](https://github.com/TrentSterling/EOS-Native) from scratch — a standalone multiplayer framework for Unity with 80 C# managers and 46K lines of code. P2P mesh, zero-hitch host migration, spatial voice, ranked matchmaking, replay system, anti-cheat. No FishNet, no Mirror, no middleware. Just the SDK. I hate multiplayer, but I'm good at it.
 
-**VR Development** - Quest-native, not just PCVR. If it doesn't run on Quest I don't touch it. Voxel engines, compute shaders, 120Hz optimization, spatial voice, physics interactions.
+**VR Development** - Quest-native, not just PCVR. If it doesn't run on Quest hardware I'm not interested. Currently building a voxel portal game with compute shader terrain, 120Hz rendering, and physics-based gorilla locomotion.
 
-**Tools That Exist Because I Needed Them** - VS Code extensions, Chrome extensions, Discord bots, hardware projects. If something annoyed me enough, I built a fix.
+**Tools & Overlays** - If something annoys me enough, I build a fix. VS Code extensions, Chrome extensions, Discord bots, desktop overlays in Rust, a CLI that replaces Unity Hub. I have a transparent desktop zombie shooter that's entirely unrelated to my actual work.
 
-**AI-Assisted Prototyping** - I use Gemini, Claude, and local Ollama models daily. Not for replacing real engine work - for killing boilerplate and getting to the interesting part faster.
+**AI-Augmented Dev** - Claude, Gemini, and local Ollama models daily. Not for replacing real engine work — for killing boilerplate, generating voice lines, and letting AI agents monitor my builds while I'm in VR.
 
 ## Recent Work (2026)
 
@@ -50,11 +50,11 @@ I make multiplayer games, VR stuff, and tools that solve problems I actually hav
 
 ## Stack
 
-`C#` `Unity` `HLSL/Compute Shaders` `Python` `TypeScript` `JavaScript` `WebGPU` `Arduino/ESP8266` `EOS SDK` `FishNet`
+`C#` `Unity` `HLSL/Compute Shaders` `Rust` `Python` `TypeScript` `Go` `WebGPU` `WGSL` `EOS SDK` `FishNet`
 
 ## Links
 
-[tront.xyz](https://tront.xyz) - [Blog](https://tront.xyz/blog) - [EOS-Native Docs](https://tront.xyz/EOS-Native/) - [Discord](https://discord.gg/0hyoWZyM6y7kkFCN) - [Twitter](https://twitter.com/Trent_Sterling) - [Bluesky](https://bsky.app/profile/tront.xyz) - [itch.io](https://trent.itch.io)
+[tront.xyz](https://tront.xyz) · [Blog](https://tront.xyz/blog) · [EOS-Native Docs](https://tront.xyz/EOS-Native/) · [Discord](https://tront.xyz/discord/) · [Twitter](https://twitter.com/Trent_Sterling) · [Bluesky](https://bsky.app/profile/tront.xyz) · [itch.io](https://trent.itch.io)
 
 ---
 
