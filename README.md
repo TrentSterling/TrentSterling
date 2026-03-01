@@ -1,6 +1,6 @@
 # Hey, I'm Trent (Tront)
 
-Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never really stopped. Now I build multiplayer frameworks, VR games, desktop tools, and an unreasonable number of side projects. 88 repos and counting.
+Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never really stopped. Now I build multiplayer frameworks, VR games, desktop tools, and an unreasonable number of side projects.
 
 ## What I Do
 
