@@ -8,7 +8,7 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 **VR** - Quest-native, not just PCVR. If it doesn't run on Quest hardware I'm not interested. Currently: a voxel portal game with compute shader terrain + physics-based gorilla locomotion.
 
-**Tools + Overlays** - If something annoys me enough, I build the fix. A system-wide EQ with its own audio driver, a ShareX replacement I use daily, a disk treemap, a Unity Hub replacement CLI, Discord bots, and GPU-rendered desktop overlay games in Rust built for streaming.
+**Tools + Overlays** - If something annoys me enough, I build the fix. A system-wide EQ with its own audio driver, the screenshot tool I use daily, a disk treemap, a Unity Hub replacement CLI, Discord bots, and GPU-rendered desktop overlay games in Rust built for streaming.
 
 ## Recent Work (2026)
 
@@ -20,7 +20,7 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 <a href="https://tront.xyz/trontsnap/"><img src="https://tront.xyz/trontsnap/assets/icon.png?v=2" width="140" align="right"></a>
 
-**[TrontSnap](https://github.com/TrentSterling/trontsnap)** - Screenshot tool + screen recorder in one portable exe. Global hotkeys, instant gallery, MP4 recording with system audio, GIF export, drag a shot straight into Discord. My ShareX replacement, used daily. [Site](https://tront.xyz/trontsnap/) · [Releases](https://github.com/TrentSterling/trontsnap/releases)
+**[TrontSnap](https://github.com/TrentSterling/trontsnap)** - Screenshot tool + screen recorder in one portable exe. Global hotkeys, instant gallery, MP4 recording with system audio, GIF export, drag a shot straight into Discord. Raised on ShareX, built my own; daily driver. [Site](https://tront.xyz/trontsnap/) · [Releases](https://github.com/TrentSterling/trontsnap/releases)
 
 <br clear="both">
 
