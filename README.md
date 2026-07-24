@@ -4,7 +4,7 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 ## What I Do
 
-**Multiplayer Networking** - I built [eos-native](https://github.com/TrentSterling/eos-native) from scratch: a standalone multiplayer framework for Unity on EOS P2P. Mesh networking, zero-hitch host migration, spatial voice, ranked matchmaking, replays, anti-cheat. No FishNet, no Mirror, no middleware. I hate multiplayer, but I'm good at it.
+**Multiplayer Networking** - I built [eos-native](https://github.com/TrentSterling/eos-native) from scratch: a standalone multiplayer framework for Unity on EOS P2P. Mesh networking, zero-hitch host migration, spatial voice, ranked matchmaking, replays, anti-cheat. No FishNet, no Mirror, no middleware. Multiplayer is a pain in the ass, which is exactly why I'm good at it.
 
 **VR** - Quest-native, not just PCVR. If it doesn't run on Quest hardware I'm not interested. Currently: a voxel portal game with compute shader terrain + physics-based gorilla locomotion.
 
@@ -14,13 +14,13 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 ## Recent Work (2026)
 
-<a href="https://tront.xyz/tronteq/"><img src="https://tront.xyz/tronteq/hero-particles.jpg" width="200" align="right"></a>
+<a href="https://tront.xyz/tronteq/"><img src="https://tront.xyz/tronteq/assets/hero-particles.jpg" width="200" align="right"></a>
 
 **[TrontEQ](https://github.com/TrentSterling/tronteq)** - Zero-latency system-wide EQ for Windows. A custom audio driver (APO) living inside the Windows audio engine, driven by a Rust GUI: 8-band parametric EQ, compressor, limiter, A/V-sync delay, and 33 music visualizers that follow the beat. [Site](https://tront.xyz/tronteq/)
 
 <br clear="both">
 
-<a href="https://tront.xyz/trontsnap/"><img src="https://tront.xyz/trontsnap/icon.png" width="140" align="right"></a>
+<a href="https://tront.xyz/trontsnap/"><img src="https://tront.xyz/trontsnap/assets/icon.png" width="140" align="right"></a>
 
 **[TrontSnap](https://github.com/TrentSterling/trontsnap)** - Screenshot tool + screen recorder in one portable exe. Global hotkeys, instant gallery, MP4 recording with system audio, GIF export, drag a shot straight into Discord. My ShareX replacement, used daily. [Site](https://tront.xyz/trontsnap/) · [Releases](https://github.com/TrentSterling/trontsnap/releases)
 
@@ -32,7 +32,7 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 <br clear="both">
 
-<a href="https://tront.xyz/spaceview/"><img src="https://tront.xyz/spaceview/screenshot-neon.png" width="200" align="right"></a>
+<a href="https://tront.xyz/spaceview/"><img src="https://tront.xyz/spaceview/assets/screenshot-neon.png" width="200" align="right"></a>
 
 **[SpaceView](https://github.com/TrentSterling/spaceview)** - Disk space treemap for Windows, SpaceMonger style: your whole drive as one picture. Rust, fast on huge drives. [Site](https://tront.xyz/spaceview/)
 
