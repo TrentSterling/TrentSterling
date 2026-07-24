@@ -8,7 +8,7 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 **VR** - Quest-native, not just PCVR. If it doesn't run on Quest hardware I'm not interested. Currently: a voxel portal game with compute shader terrain + physics-based gorilla locomotion.
 
-**Tools + Overlays** - If something annoys me enough, I build the fix. A system-wide EQ with its own audio driver, a ShareX replacement I use daily, a disk treemap, a Unity Hub replacement CLI, Discord bots, desktop overlays in Rust. There's also a transparent desktop zombie shooter that's entirely unrelated to my actual work.
+**Tools + Overlays** - If something annoys me enough, I build the fix. A system-wide EQ with its own audio driver, a ShareX replacement I use daily, a disk treemap, a Unity Hub replacement CLI, Discord bots, and GPU-rendered desktop overlay games in Rust built for streaming.
 
 ## Recent Work (2026)
 
