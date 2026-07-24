@@ -36,7 +36,11 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 <br clear="both">
 
+<a href="https://tront.xyz/critters/"><img src="https://tront.xyz/critters/og-image.png" width="200" align="right"></a>
+
 **[critters](https://tront.xyz/critters/)** - SDF blend-shell creature sandbox, live in the browser. Squishy procedural creatures from math, no meshes.
+
+<br clear="both">
 
 ## Other Repos
 
