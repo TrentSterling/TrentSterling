@@ -10,6 +10,8 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 **Tools + Overlays** - If something annoys me enough, I build the fix. A system-wide EQ with its own audio driver, the screenshot tool I use daily, a disk treemap, a Unity Hub replacement CLI, Discord bots, and GPU-rendered desktop overlay games in Rust built for streaming.
 
+**Browser Games** - In 2026 I started shipping small games as single HTML files, fast, in public, at [tront.xyz/games](https://tront.xyz/games/): co-op zombies, 200k-unit GPU sieges, voxel destruction, ragdoll parties, artillery, a shared physics sketchbook. Each one has a headless test harness and most have peer-to-peer online play with no server behind them.
+
 ## Recent Work (2026)
 
 <a href="https://tront.xyz/tronteq/"><img src="https://tront.xyz/tronteq/assets/hero-particles.jpg?v=2" width="200" align="right"></a>
@@ -30,9 +32,9 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 <br clear="both">
 
-<a href="https://tront.xyz/spaceview/"><img src="https://tront.xyz/spaceview/assets/screenshot-neon.png?v=2" width="200" align="right"></a>
+<a href="https://tront.xyz/spaceview/"><img src="https://tront.xyz/spaceview/assets/hero-chrome-sunset.png?v=3" width="200" align="right"></a>
 
-**[SpaceView](https://github.com/TrentSterling/spaceview)** - Disk space treemap for Windows, SpaceMonger style: your whole drive as one picture. Rust, fast on huge drives. [Site](https://tront.xyz/spaceview/)
+**[SpaceView](https://github.com/TrentSterling/spaceview)** - Disk space treemap for Windows, SpaceMonger style: your whole drive as one picture. Rust, 24 gradient themes, fast on huge drives. [Site](https://tront.xyz/spaceview/)
 
 <br clear="both">
 
@@ -41,6 +43,16 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 **[critters](https://tront.xyz/critters/)** - SDF blend-shell creature sandbox, live in the browser. Squishy procedural creatures from math, no meshes.
 
 <br clear="both">
+
+## Browser Games (2026)
+
+One HTML file each, no install, all free at [tront.xyz/games](https://tront.xyz/games/). Built fast with AI coding tools, shipped in public, tested with headless browser harnesses.
+
+<table>
+<tr><td align="center" width="33%"><a href="https://tront.xyz/deadends/"><img src="https://tront.xyz/deadends/og-image.png" width="260"><br><b>DEAD ENDS</b></a><br><sub>Top-down co-op zombie escape. Four survivors, five chapters, one red safehouse door. Play online in one click.</sub></td><td align="center" width="33%"><a href="https://tront.xyz/senddudes/"><img src="https://tront.xyz/senddudes/og-image.png" width="260"><br><b>SEND DUDES</b></a><br><sub>200,000 fighters simulated on the GPU. Hold the core through three sieges. WebGPU.</sub></td><td align="center" width="33%"><a href="https://tront.xyz/breakmass/"><img src="https://tront.xyz/breakmass/og-image.png" width="260"><br><b>BREAKMASS</b></a><br><sub>Voxel destruction sandbox. Pick up a building and throw it through the one next door.</sub></td></tr>
+<tr><td align="center" width="33%"><a href="https://tront.xyz/buddy/"><img src="https://tront.xyz/buddy/og-image.png" width="260"><br><b>Buddy Bonk</b></a><br><sub>Multiplayer ragdoll sandbox. Grab a friend, grab a limb, make a mess. The link is the lobby.</sub></td><td align="center" width="33%"><a href="https://tront.xyz/tinytreads/"><img src="https://tront.xyz/tinytreads/og-image.png" width="260"><br><b>Tiny Treads</b></a><br><sub>Turn-based artillery, destructible terrain, 400 weapons. Small tanks, big grudges.</sub></td><td align="center" width="33%"><a href="https://tront.xyz/inkride/"><img src="https://tront.xyz/inkride/og-image.png" width="260"><br><b>INKRIDE</b></a><br><sub>Shared physics sketchbook. Draw ink tracks, ride them, crash beautifully, together.</sub></td></tr>
+<tr><td align="center" width="33%"><a href="https://tront.xyz/tinyrise/"><img src="https://tront.xyz/tinyrise/og-image.png" width="260"><br><b>Tinyrise</b></a><br><sub>Brutalist city builder. Build the whole city, zoom in, watch one tiny life use your stairs.</sub></td><td align="center" width="33%"><a href="https://tront.xyz/terrainlab/"><img src="https://tront.xyz/terrainlab/og-image.png" width="260"><br><b>Terrain Lab</b></a><br><sub>Editable Surface Nets terrain. Carve, build, plant forests, wake volcanoes.</sub></td><td align="center" width="33%"><a href="https://tront.xyz/vixels/"><img src="https://tront.xyz/vixels/og-image.png" width="260"><br><b>VIXELS</b></a><br><sub>Vector materials on voxel surfaces. Zoom into a block face forever, never a blurry pixel.</sub></td></tr>
+</table>
 
 ## Other Repos
 
