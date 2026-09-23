@@ -1,6 +1,8 @@
-# Hey, I'm Trent (Tront)
+# Hey, I'm Trent Sterling (Tront)
 
 Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never really stopped. I build multiplayer frameworks, VR games, desktop tools, and an unreasonable number of side projects.
+
+I'm the contract Network Programmer and Unity Generalist on [Project Demigod](https://store.steampowered.com/app/1646580/Project_Demigod/). My portfolio is [Tront's Games](https://tront.xyz/games/), and I write about development at [Tront Dev](https://tront.xyz/blog/).
 
 ## What I Do
 
@@ -28,7 +30,7 @@ Game dev since 2009. Started modding Halo CE, Minecraft, and Garry's Mod, never 
 
 <a href="https://github.com/TrentSterling/eos-native"><img src="https://tront.xyz/blog/assets/img/blog/eos-native.png" width="200" align="right"></a>
 
-**[eos-native](https://github.com/TrentSterling/eos-native)** - Standalone multiplayer framework for Unity built on EOS P2P. Mesh networking, zero-hitch host migration, voice chat, ranked matchmaking, replays, anti-cheat. 7 platforms, 100% free. [Docs](https://tront.xyz/eos-native/) · [Blog post](https://tront.xyz/blog/posts/eos-native-i-built-a-standalone-multiplayer-framework-for-unity/)
+**[eos-native](https://github.com/TrentSterling/eos-native)** - Standalone multiplayer framework for Unity built on EOS P2P. Mesh networking, zero-hitch host migration, voice chat, ranked matchmaking, replays, anti-cheat. 7 platforms, 100% free. [Docs](https://tront.xyz/eos-native/) · [Blog post](https://tront.xyz/blog/posts/eos-native/)
 
 <br clear="both">
 
@@ -58,16 +60,16 @@ One HTML file each, no install, all free at [tront.xyz/games](https://tront.xyz/
 
 | | Repo | What |
 |---|------|------|
-| <a href="https://tront.xyz/vibesand"><img src="https://tront.xyz/img/chrome_doQGkdV5Qr.png" width="120"></a> | [vibesand](https://github.com/TrentSterling/vibesand) | WebGPU voxel sandbox - 2M particles at 60fps |
-| <a href="https://tront.xyz/vibewater"><img src="https://tront.xyz/img/vibewater.png" width="120"></a> | [vibewater](https://github.com/TrentSterling/vibewater) | 3D water sim with WebGPU compute shaders |
-| <a href="https://tront.xyz/vibeduders"><img src="https://tront.xyz/img/vibeduders.png" width="120"></a> | [vibeduders](https://github.com/TrentSterling/vibeduders) | 100K GPU-driven agents with individual behaviors |
-| <a href="https://tront.xyz/vibespace"><img src="https://tront.xyz/img/vibespace.jpg" width="120"></a> | [vibespace](https://github.com/TrentSterling/vibespace) | Infinite procedural space sim |
-| <a href="https://tront.xyz/shortpath"><img src="https://tront.xyz/img/shortpath.png" width="120"></a> | [shortpath](https://github.com/TrentSterling/shortpath) | Dijkstra vs Duan-Mao pathfinding visualizer |
-| <a href="https://tront.xyz/lofigen"><img src="https://tront.xyz/lofigen/og-image.png" width="120"></a> | [lofigen](https://tront.xyz/lofigen) | Procedural lo-fi hip-hop generator |
-| <a href="https://tront.xyz/device-history"><img src="https://tront.xyz/device-history/screenshot.png" width="120"></a> | [device-history](https://github.com/TrentSterling/device-history) | USB device monitor with system tray + nicknames |
+| <a href="https://tront.xyz/vibesand/"><img src="https://tront.xyz/img/chrome_doQGkdV5Qr.png" width="120"></a> | [vibesand](https://github.com/TrentSterling/vibesand) | WebGPU voxel sandbox - 2M particles at 60fps |
+| <a href="https://tront.xyz/vibewater/"><img src="https://tront.xyz/img/vibewater.png" width="120"></a> | [vibewater](https://github.com/TrentSterling/vibewater) | 3D water sim with WebGPU compute shaders |
+| <a href="https://tront.xyz/vibeduders/"><img src="https://tront.xyz/img/vibeduders.png" width="120"></a> | [vibeduders](https://github.com/TrentSterling/vibeduders) | 100K GPU-driven agents with individual behaviors |
+| <a href="https://tront.xyz/vibespace/"><img src="https://tront.xyz/img/vibespace.jpg" width="120"></a> | [vibespace](https://github.com/TrentSterling/vibespace) | Infinite procedural space sim |
+| <a href="https://tront.xyz/shortpath/"><img src="https://tront.xyz/img/shortpath.png" width="120"></a> | [shortpath](https://github.com/TrentSterling/shortpath) | Dijkstra vs Duan-Mao pathfinding visualizer |
+| <a href="https://tront.xyz/lofigen/"><img src="https://tront.xyz/lofigen/og-image.png" width="120"></a> | [lofigen](https://tront.xyz/lofigen/) | Procedural lo-fi hip-hop generator |
+| <a href="https://tront.xyz/device-history/"><img src="https://tront.xyz/device-history/screenshot.png" width="120"></a> | [device-history](https://github.com/TrentSterling/device-history) | USB device monitor with system tray + nicknames |
 | <a href="https://github.com/TrentSterling/catswarm"><img src="https://raw.githubusercontent.com/TrentSterling/catswarm/master/docs/og-image.png" width="120"></a> | [catswarm](https://github.com/TrentSterling/catswarm) | 1000 procedural cats swarming your desktop |
 | <a href="https://github.com/TrentSterling/craftmine"><img src="https://tront.xyz/img/craftmine.png" width="120"></a> | [craftmine](https://github.com/TrentSterling/craftmine) | Browser Minecraft clone - single HTML file |
-| <a href="https://tront.xyz/lerp"><img src="https://tront.xyz/img/lerp.png" width="120"></a> | [lerp](https://github.com/TrentSterling/lerp) | Framerate-independent lerp visualizer |
+| <a href="https://tront.xyz/lerp/"><img src="https://tront.xyz/img/lerp.png" width="120"></a> | [lerp](https://github.com/TrentSterling/lerp) | Framerate-independent lerp visualizer |
 | <a href="https://tront.xyz/speedslap/"><img src="https://tront.xyz/img/speedslap.png" width="120"></a> | [speedslap](https://github.com/TrentSterling/speedslap) | YouTube speed control extension - I watch everything at 3x |
 | <a href="https://tront.xyz/csharp-gentle-formatter/"><img src="https://tront.xyz/blog/assets/img/blog/csharp-gentle-formatter.png" width="120"></a> | [csharp-gentle-formatter](https://github.com/TrentSterling/csharp-gentle-formatter) | C# formatter that respects your blank lines |
 
@@ -87,7 +89,7 @@ Not open-source yet, but you can see what they do:
 
 ## Links
 
-[tront.xyz](https://tront.xyz) · [Blog](https://tront.xyz/blog) · [eos-native Docs](https://tront.xyz/eos-native/) · [Discord](https://tront.xyz/discord/) · [Twitter](https://twitter.com/Trent_Sterling) · [Bluesky](https://bsky.app/profile/tront.xyz) · [itch.io](https://trent.itch.io)
+[tront.xyz](https://tront.xyz) · [Blog](https://tront.xyz/blog/) · [eos-native Docs](https://tront.xyz/eos-native/) · [Discord](https://tront.xyz/discord/) · [Twitter](https://twitter.com/Trent_Sterling) · [Bluesky](https://bsky.app/profile/tront.xyz) · [itch.io](https://trent.itch.io)
 
 ---
 
